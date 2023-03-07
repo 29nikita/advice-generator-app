@@ -12,7 +12,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,6 +25,14 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+
+Desktop View
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71252906/223411983-b3e8fb80-5cab-4422-a68b-15e3ff69f8b5.png">
+
+Mobile View
+
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/71252906/223412104-decfa755-f1b9-42f5-9130-18e86d7f1c91.png">
 
 
 ### Links
