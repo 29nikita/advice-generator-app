@@ -78,4 +78,4 @@ I will continue to learn how to make a request and work with external APIs. Also
 ## Author
 
 - Website - [Advice Generator App](https://nikita-advice-generator-app.netlify.app/)
-- Frontend Mentor - [@29Nikita](https://www.frontendmentor.io/profile/29Nikita)
+- Frontend Mentor - [@29nikita](https://www.frontendmentor.io/profile/29nikita)
